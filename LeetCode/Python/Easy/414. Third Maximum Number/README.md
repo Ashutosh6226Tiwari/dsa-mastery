@@ -1,6 +1,6 @@
 # 📝 414. Third Maximum Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/third-maximum-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 20.5 MB
 
 ---
 

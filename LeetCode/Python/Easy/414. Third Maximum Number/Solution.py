@@ -7,11 +7,4 @@ class Solution:
             return temp[2]
         return temp[0]
         
-
-
-        # n=len(nums)
-        # nums=set(nums)
-        # if n>=3:
-        #     return nums[3]
-        
         
