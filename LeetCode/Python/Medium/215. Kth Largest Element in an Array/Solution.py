@@ -5,3 +5,5 @@ class Solution:
         return nums[n-k]
 
         
+        # nums.sort(reverse=True)
+        # return nums[k-1]
