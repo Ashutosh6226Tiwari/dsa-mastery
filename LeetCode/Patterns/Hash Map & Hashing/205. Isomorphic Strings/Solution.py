@@ -4,9 +4,9 @@ class Solution:
             return False
         hashmap={}
         for i in range(0,len(s)):
-            if s[i] in hashmap and t[i]!=hashmap(s[i]):
+            if s[i] in hashmap and t[i]!=hashmap[s[i]]:
                 return False
-            hashmap
+
+            hashmap[s[i]]=t[i]
             
-        
         return True
