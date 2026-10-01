@@ -1,6 +1,6 @@
 # 📝 205. Isomorphic Strings (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/isomorphic-strings/)
+🔗 [Problem Link](https://leetcode.com/problems/isomorphic-strings)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
