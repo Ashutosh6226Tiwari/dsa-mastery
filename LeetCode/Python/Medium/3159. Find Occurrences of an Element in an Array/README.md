@@ -1,6 +1,6 @@
 # 📝 3159. Find Occurrences of an Element in an Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array)
+🔗 [Problem Link](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
