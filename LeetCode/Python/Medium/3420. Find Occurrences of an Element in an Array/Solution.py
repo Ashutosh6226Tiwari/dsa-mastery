@@ -1,15 +1,17 @@
-from typing import List
-
 class Solution:
     def occurrencesOfElement(self, nums: List[int], queries: List[int], x: int) -> List[int]:
-        # find all indices where x occurs
-        indices = [i for i, val in enumerate(nums) if val == x]
+        hashmap={}
+        counter=1
+        for i in range (0, len(nums)):
+            if nums [i]==x:
+                hashmap[counter]=i
+                counter+=1
+
+        output=[-1]*len(queries)
+        for i in range(0,len(queries)):
+            if queries[i] in hashmap :
+                output[i]=hashmap.get(queries[i])
         
-        # for each query, return the index-th occurrence if it exists, else -1
-        result = []
-        for q in queries:
-            if q <= len(indices):
-                result.append(indices[q-1])  # queries are 1-based
-            else:
-                result.append(-1)
-        return result
+        return output
+
+        
