@@ -1,7 +1,20 @@
 class Solution:
     def majorityElement(self, nums: list[int]) -> int:
-        nums.sort()
-        return nums[len(nums)//2]
+        hashmap={}
+        for num in nums :
+            hashmap[num]=hashmap.get(num,0)+1
+        for key ,value in hashmap.items():
+            if value >len(nums)//2:
+                return key 
+
+
+
+
+
+
+
+        # nums.sort()
+        # return nums[len(nums)//2]
 
         
         
