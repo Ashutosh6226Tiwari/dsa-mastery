@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 4 / 75 (5.3%)
+- **Completed:** 5 / 75 (6.7%)
 
 ---
 
@@ -12,7 +12,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 ### 📂 Array
 - [x] [Two Sum](./Python/Easy/1. Two Sum/)
 - [x] [Best Time to Buy and Sell Stock](./Python/Easy/121. Best Time to Buy and Sell Stock/)
-- [ ] Contains Duplicate
+- [x] [Contains Duplicate](./Python/Easy/217. Contains Duplicate/)
 - [ ] Product of Array Except Self
 - [x] [Maximum Subarray](./Python/Medium/53. Maximum Subarray/)
 - [ ] Maximum Product Subarray
