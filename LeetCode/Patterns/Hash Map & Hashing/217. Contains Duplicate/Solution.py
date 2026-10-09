@@ -4,5 +4,5 @@ class Solution:
         for num in nums :
             if num in hashmap:
                 return True 
-            hashmap[num]=nums
+            hashmap[num]=1
         return False
