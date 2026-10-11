@@ -8,3 +8,9 @@ class Solution:
             if value > len(nums)//3: 
                 result.append(key)
         return result        
+
+
+
+
+
+        
