@@ -13,3 +13,8 @@ class Solution:
                 right-=1
         return max_area    
         
+
+
+# ✅ Time Complexity: O(n)
+# ✅ Space Complexity: O(1)
+ 
