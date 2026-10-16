@@ -32,8 +32,7 @@ class Solution:
                 nums[left], nums[curr] = nums[curr], nums[left]
                 left += 1
                 curr+=1
-                
-
+    
             else:
                 curr += 1
 
