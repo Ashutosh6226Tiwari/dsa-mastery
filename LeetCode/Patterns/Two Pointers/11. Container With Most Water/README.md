@@ -8,7 +8,7 @@
 Array, Two Pointers, Greedy
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
