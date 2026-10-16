@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 23 / 238 (9.7%)
+- **Completed:** 24 / 238 (10.1%)
 
 ---
 
@@ -80,7 +80,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ### 📂 MODULE  3.3: INPLACE ARRAY MODIFICATION
 - [x] [Move Zeroes](./Python/Easy/283. Move Zeroes/)
-- [ ] Remove Duplicates from Sorted Array
+- [x] [Remove Duplicates from Sorted Array](./Python/Easy/26. Remove Duplicates from Sorted Array/)
 - [ ] Remove Element
 - [ ] Remove Duplicates II
 - [ ] Duplicate Zeros
