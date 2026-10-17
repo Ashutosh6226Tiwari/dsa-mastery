@@ -294,7 +294,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Basic Calculator
 - [ ] Basic Calculator II
-- [x] [Backspace String Compare](./Python/Easy/844. Backspace String Compare/)
+- [x] [Backspace String Compare](./Python/Easy/874. Backspace String Compare/)
 - [ ] Baseball Game
 - [ ] Longest Valid Parentheses
 - [ ] Valid Parentheses
