@@ -1,6 +1,6 @@
 # 📝 75. Sort Colors (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/sort-colors/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/sort-colors/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Sorting, Quicksort, Bubble Sort
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 19.2 MB
 
 ---
 
