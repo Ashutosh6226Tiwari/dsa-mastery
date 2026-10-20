@@ -9,6 +9,8 @@ class Solution:
                 l+=1
             curr+=1
 
+# time complexity = O(n)
+# space complexity = O(1)
 
 
 
