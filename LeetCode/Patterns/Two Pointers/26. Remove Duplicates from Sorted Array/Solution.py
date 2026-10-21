@@ -18,8 +18,10 @@ class Solution:
         #         nums[l]=nums[curr]
         #         curr+=1
         #         l+=1
+        # return l
 
-
+# time complexity =O(n)
+# space complexity = O(1)
 
 
 
