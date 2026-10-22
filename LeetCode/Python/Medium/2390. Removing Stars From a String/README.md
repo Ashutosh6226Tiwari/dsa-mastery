@@ -1,6 +1,6 @@
 # 📝 2390. Removing Stars From a String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/removing-stars-from-a-string/)
+🔗 [Problem Link](https://leetcode.com/problems/removing-stars-from-a-string)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
