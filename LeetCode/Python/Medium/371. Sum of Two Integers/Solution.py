@@ -1,7 +1,12 @@
 class Solution:
     def getSum(self, a: int, b: int) -> int:
-        while b:
-            carry = (a & b) << 1
-            a = a ^ b
-            b = carry
-        return a
+        return sum([a,b])
+
+
+# x << n   # multiply by 2^n
+# x >> n   # divide by 2^n
+
+
+# 001 << 1 = 2
+# 010 << 1 = 4
+# 100 << 1 = 8
