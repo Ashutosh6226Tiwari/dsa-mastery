@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 7 / 75 (9.3%)
+- **Completed:** 8 / 75 (10.7%)
 
 ---
 
@@ -22,7 +22,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [x] [Container With Most Water](./Python/Medium/11. Container With Most Water/)
 
 ### 📂 Binary
-- [ ] Sum of Two Integers
+- [x] [Sum of Two Integers](./Python/Medium/371. Sum of Two Integers/)
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [x] [Missing Number](./Python/Easy/268. Missing Number/)
