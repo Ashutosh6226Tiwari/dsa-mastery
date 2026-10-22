@@ -3,8 +3,6 @@ class Solution:
         return sum([a,b])
 
 
-
-
 # x << n   # multiply by 2^n
 # x >> n   # divide by 2^n
 
