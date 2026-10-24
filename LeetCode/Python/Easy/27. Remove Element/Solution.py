@@ -8,3 +8,34 @@ class Solution:
                 write+=1
             
         return write
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
