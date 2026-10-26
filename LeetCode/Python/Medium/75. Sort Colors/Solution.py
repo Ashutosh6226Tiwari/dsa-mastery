@@ -7,7 +7,7 @@ class Solution:
         #     if nums[curr]==2:
         #         nums[curr] ,nums[right] = nums[right] , nums [curr]
         #         right-=1
-        #         continue 
+ 
 
         #     elif nums[curr]==0:
         #         nums[left], nums[curr]=nums[curr],nums[left]
