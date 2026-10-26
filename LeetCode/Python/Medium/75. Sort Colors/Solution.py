@@ -26,6 +26,7 @@ class Solution:
             if nums[curr] == 2:
                 nums[curr], nums[right] = nums[right], nums[curr]
                 right -= 1
+                curr+=1
                 
 
             elif nums[curr] == 0:
