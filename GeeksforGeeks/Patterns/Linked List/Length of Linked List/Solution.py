@@ -5,7 +5,7 @@ class Node:
         self.next = None
 '''
 class node:
-    def __init__(self, data):
+    def __init__(self, value ):
         self.value=value 
         self.next=None
         
