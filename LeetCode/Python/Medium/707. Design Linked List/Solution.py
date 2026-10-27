@@ -48,7 +48,8 @@ class MyLinkedList:
         if index > 0:
             return 
 
-        prev.next= node
+        node.next= curr
+        prev.next= node 
 
     def deleteAtIndex(self, index: int) -> None:
         if not self.head:

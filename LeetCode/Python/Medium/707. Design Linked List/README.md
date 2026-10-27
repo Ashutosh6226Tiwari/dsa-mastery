@@ -1,6 +1,6 @@
 # 📝 707. Design Linked List (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/design-linked-list/)
+🔗 [Problem Link](https://leetcode.com/problems/design-linked-list)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
