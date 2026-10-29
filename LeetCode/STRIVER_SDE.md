@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 10 / 76 (13.2%)
+- **Completed:** 11 / 76 (14.5%)
 
 ---
 
@@ -34,7 +34,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 
 ### 📂 Linked List
 - [x] [Reverse Linked List](./Python/Easy/206. Reverse Linked List/)
-- [ ] Middle of the Linked List
+- [x] [Middle of the Linked List](./Python/Easy/908. Middle of the Linked List/)
 - [ ] Merge Two Sorted Lists
 - [x] [Remove Nth Node From End of List](./Python/Medium/19. Remove Nth Node From End of List/)
 - [ ] Add Two Numbers
