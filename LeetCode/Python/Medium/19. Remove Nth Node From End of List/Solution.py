@@ -4,36 +4,58 @@
 #         self.val = val
 #         self.next = next
 
-
-def getsize(head):
-    size=0
-    curr=head
-    while curr:
-        size+=1
-        curr=curr.next
-    return size
+# <-------------to calculate size--------->
+# def getsize(head):
+#     size=0
+#     curr=head
+#     while curr:
+#         size+=1
+#         curr=curr.next
+#     return size
     
 class Solution:
     def removeNthFromEnd(self, head: ListNode | None, n: int) -> ListNode | None:
-        size=getsize(head)
-        start=size-n+1
+        # size=getsize(head)
+        # start=size-n+1
 
-        dummy=ListNode(-1)
-        dummy.next=head
-        head=dummy
+        # dummy=ListNode(-1)
+        # dummy.next=head
+        # head=dummy
 
+        # prev=curr=head
 
-        prev=curr=head
+        # while start>0 :
+        #     prev=curr
+        #     curr=curr.next
+        #     start-=1
 
-        while start>0 :
+        # prev.next=curr.next
+        # del curr
+
+        # return head.next
+
+# <------------------------------------------------------>
+        fast=head
+        while n>0:
+            fast=fast.next
+            n-=1
+
+        prev, curr =None , head
+        while fast !=None:
             prev=curr
             curr=curr.next
-            start-=1
-
+            fast=fast.next
+        
+        if not prev:
+            return head.next
+        
         prev.next=curr.next
         del curr
+    
+        return head
 
-        return head.next
+
+
 
 
 
