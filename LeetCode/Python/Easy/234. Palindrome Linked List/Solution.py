@@ -5,6 +5,7 @@
 #         self.next = next
 class Solution:
     def isPalindrome(self, head: ListNode | None) -> bool:
+        #base case 0 or 1 node
         if not head or not head.next :
             return True 
 
@@ -23,8 +24,10 @@ class Solution:
             prev = curr
             curr= tem
         
+        #comparing first and second half 
+
         first_half = head
-        second_half= prev
+        second_half= prev       #head of reverse ll
         is_pal= True 
 
         while is_pal and second_half :
@@ -33,6 +36,17 @@ class Solution:
 
             first_half =  first_half.next
             second_half = second_half.next  
+
+        # restore the original (not required)
+        prev=None
+        curr=prev
+        while curr:
+            tem = curr.next
+            curr.next = prev
+            prev = curr
+            curr = tem
+
+        slow.next= prev
 
         return is_pal              
 
