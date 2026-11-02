@@ -40,4 +40,4 @@ class Solution:
         return None 
 
 
-        
+# tc= O(n+m) and sc=O(n)
