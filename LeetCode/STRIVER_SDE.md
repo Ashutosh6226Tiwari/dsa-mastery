@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 14 / 76 (18.4%)
+- **Completed:** 15 / 76 (19.7%)
 
 ---
 
@@ -37,7 +37,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Middle of the Linked List](./Python/Easy/908. Middle of the Linked List/)
 - [x] [Merge Two Sorted Lists](./Python/Easy/21. Merge Two Sorted Lists/)
 - [x] [Remove Nth Node From End of List](./Python/Medium/19. Remove Nth Node From End of List/)
-- [ ] Add Two Numbers
+- [x] [Add Two Numbers](./Python/Medium/2. Add Two Numbers/)
 - [ ] Delete Node in a Linked List
 - [x] [Intersection of Two Linked Lists](./Python/Easy/160. Intersection of Two Linked Lists/)
 - [ ] Linked List Cycle

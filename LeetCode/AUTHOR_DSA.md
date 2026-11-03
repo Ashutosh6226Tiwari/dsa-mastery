@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 34 / 238 (14.3%)
+- **Completed:** 35 / 238 (14.7%)
 
 ---
 
@@ -285,7 +285,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Remove Linked List Elements
 - [x] [Merge Two Sorted Lists](./Python/Easy/21. Merge Two Sorted Lists/)
 - [x] [Rotate List](./Python/Medium/61. Rotate List/)
-- [ ] Add Two Numbers
+- [x] [Add Two Numbers](./Python/Medium/2. Add Two Numbers/)
 - [ ] Convert Binary Number in a Linked List to Integer
 - [ ] Design HashSet
 - [ ] Design HashMap
