@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 16 / 100 (16.0%)
+- **Completed:** 17 / 100 (17.0%)
 
 ---
 
@@ -45,7 +45,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Reverse Linked List](./Python/Easy/206. Reverse Linked List/)
 - [x] [Palindrome Linked List](./Python/Easy/234. Palindrome Linked List/)
 - [x] [Linked List Cycle](./Python/Easy/141. Linked List Cycle/)
-- [ ] Linked List Cycle II
+- [x] [Linked List Cycle II](./Python/Medium/142. Linked List Cycle II/)
 - [x] [Merge Two Sorted Lists](./Python/Easy/21. Merge Two Sorted Lists/)
 - [x] [Remove Nth Node From End of List](./Python/Medium/19. Remove Nth Node From End of List/)
 - [x] [Intersection of Two Linked Lists](./Python/Easy/160. Intersection of Two Linked Lists/)
