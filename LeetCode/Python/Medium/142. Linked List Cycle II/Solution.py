@@ -6,15 +6,21 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+
         # by slow and fast pointer   tc = O(n) and sc = O(1)
 
         slow = fast = head 
         while fast and fast.next :
-            
+            slow = slow.next 
+            fast = fast.next.next 
 
-
-
-
+            if slow == fast :
+                slow = head 
+                while slow != fast :
+                    slow=slow.next 
+                    fast=fast.next 
+                return slow 
+        return None
 
 
 # <----------------------------------------------------------->
