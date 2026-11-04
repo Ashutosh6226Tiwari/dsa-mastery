@@ -6,28 +6,29 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        # by slow and fast
+        # by slow and fast         tc = sc = O(n)
 
-
-
-
-
-
-
-
-
-
-
-        # by hashmap      tc=O(n)
-        curr= head 
-        hashmap = {}
-        while curr :
-            if curr in hashmap :
-                return True 
+        slow = fast = head 
+        while fast and fast.next :
+            slow =slow.next               # move 1 step 
+            fast = fast.next.next         # move 2 step 
             
-            hashmap[curr]=True
-            curr=curr.next
-        return False 
+            if slow == fast :             # both meet  
+                return True 
+        return False
+
+# <---------------------------------------------------------------->
+        # # by hashmap      tc=O(n) and sc=O(n)
+
+        # curr= head 
+        # hashmap = {}
+        # while curr :
+        #     if curr in hashmap :
+        #         return True 
+            
+        #     hashmap[curr]=True
+        #     curr=curr.next
+        # return False 
 
 
 
