@@ -6,7 +6,19 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        # by hashmap 
+        # by slow and fast
+
+
+
+
+
+
+
+
+
+
+
+        # by hashmap      tc=O(n)
         curr= head 
         hashmap = {}
         while curr :
@@ -16,16 +28,6 @@ class Solution:
             hashmap[curr]=True
             curr=curr.next
         return False 
-
-
-
-
-
-
-
-
-
-
 
 
 
