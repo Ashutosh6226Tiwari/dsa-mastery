@@ -6,7 +6,7 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # by slow and fast pointer   tc = O(n)
+        # by slow and fast pointer   tc =
 
 
 
