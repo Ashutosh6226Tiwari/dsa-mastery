@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 37 / 238 (15.5%)
+- **Completed:** 38 / 238 (16.0%)
 
 ---
 
@@ -280,7 +280,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [x] [Palindrome Linked List](./Python/Easy/234. Palindrome Linked List/)
 - [x] [Remove Nth Node From End of List](./Python/Medium/19. Remove Nth Node From End of List/)
 - [ ] Delete Node in a Linked List
-- [ ] Delete the Middle Node of a Linked List
+- [x] [Delete the Middle Node of a Linked List](./Python/Medium/2216. Delete the Middle Node of a Linked List/)
 - [x] [Remove Duplicates from Sorted List](./Python/Easy/83. Remove Duplicates from Sorted List/)
 - [ ] Remove Linked List Elements
 - [x] [Merge Two Sorted Lists](./Python/Easy/21. Merge Two Sorted Lists/)
