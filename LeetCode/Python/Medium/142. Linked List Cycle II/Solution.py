@@ -6,7 +6,11 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # by slow and fast pointer   tc =
+        # by slow and fast pointer   tc = O(n) and sc = O(1)
+
+        slow = fast = head 
+        while fast and fast.next :
+            
 
 
 
@@ -14,7 +18,7 @@ class Solution:
 
 
 # <----------------------------------------------------------->
-        # by hash set    tc = O(n) and sc =O(n)
+        # by hash set    tc = sc = O(n) 
 
         curr = head 
         visited=set()
