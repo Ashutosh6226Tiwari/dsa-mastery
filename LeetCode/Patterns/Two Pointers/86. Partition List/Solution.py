@@ -30,6 +30,8 @@ class Solution:
 
         return less_dummy.next
 
+# tc = O(n)
+# sc = O(1)
 
 
 
