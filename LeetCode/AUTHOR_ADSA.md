@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 14 / 65 (21.5%)
+- **Completed:** 15 / 65 (23.1%)
 
 ---
 
@@ -46,7 +46,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [x] [Intersection of Two Linked Lists](./Python/Easy/160. Intersection of Two Linked Lists/)
 
 ### 📂 Module  1.6: Sorting, Conversion & Advan
-- [ ] Sort List
+- [x] [Sort List](./Python/Medium/148. Sort List/)
 - [ ] Convert Sorted List to Binary Search Tree
 - [ ] Merge k Sorted Lists
 
