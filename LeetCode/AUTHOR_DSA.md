@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 38 / 238 (16.0%)
+- **Completed:** 39 / 238 (16.4%)
 
 ---
 
@@ -130,7 +130,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [x] [Container With Most Water](./Python/Medium/11. Container With Most Water/)
 - [x] [3Sum](./Python/Medium/15. 3Sum/)
 - [x] [Kth Largest Element in an Array](./Python/Medium/215. Kth Largest Element in an Array/)
-- [ ] Find the Duplicate Number
+- [x] [Find the Duplicate Number](./Python/Medium/287. Find the Duplicate Number/)
 - [ ] Next Greater Element I
 - [ ] Three Elements to Maximize Expression
 - [ ] K Multiplications
