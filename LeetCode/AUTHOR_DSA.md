@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 40 / 238 (16.8%)
+- **Completed:** 41 / 238 (17.2%)
 
 ---
 
@@ -76,7 +76,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [x] [Missing Number](./Python/Easy/268. Missing Number/)
 - [ ] Find Integer Added to Array
 - [ ] Minimum Operations to Make Array Zero
-- [ ] Concatenation of Array
+- [x] [Concatenation of Array](./Python/Easy/2058. Concatenation of Array/)
 
 ### 📂 MODULE  3.3: INPLACE ARRAY MODIFICATION
 - [x] [Move Zeroes](./Python/Easy/283. Move Zeroes/)
