@@ -40,7 +40,8 @@ class Solution:
             first= tem1
             second= tem2
 
-
+# time complexity  = O(n)
+# space complexity = O(1)
 
 
 
