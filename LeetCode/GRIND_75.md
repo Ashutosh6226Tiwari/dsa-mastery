@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 13 / 75 (17.3%)
+- **Completed:** 14 / 75 (18.7%)
 
 ---
 
@@ -78,7 +78,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
 - [ ] Group Anagrams
-- [ ] Valid Parentheses
+- [x] [Valid Parentheses](./Python/Easy/20. Valid Parentheses/)
 - [ ] Valid Palindrome
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
