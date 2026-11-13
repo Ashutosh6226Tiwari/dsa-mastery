@@ -26,7 +26,7 @@ An input string is valid if:
 	
 3. Every close bracket has a corresponding open bracket of the same type.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 **Input:**  s = "()"
 
