@@ -8,8 +8,8 @@
 Array, Hash Table, Stack, Monotonic Stack
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 19.3 MB
 
 ---
 
@@ -23,7 +23,7 @@ For each  `0 <= i < nums1.length` , find the index  `j`  such that  `nums1[i] ==
 
 Return  *an array*  `ans`  *of length*  `nums1.length`  *such that*  `ans[i]`  *is the  **next greater element**  as described above.*
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: nums1 = [4,1,2], nums2 = [1,3,4,2]
