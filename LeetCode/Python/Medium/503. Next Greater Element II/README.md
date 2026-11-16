@@ -1,6 +1,6 @@
 # 📝 503. Next Greater Element II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/next-greater-element-ii/?__cf_chl_rt_tk=GJTxXcXOa3pzr_BH3BzKFVUFW2mIXR3XS.cmIS5yfY4-1794824133-1.0.1.1-6VH23AYp4oJNYQO1cGKhpmwdJtzgAIRRLOg22HPN1sk)
+🔗 [Problem Link](https://leetcode.com/problems/next-greater-element-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -19,7 +19,7 @@ Given a circular integer array  `nums`  (i.e., the next element of  `nums[nums.l
 
 The  **next greater number**  of a number  `x`  is the first greater number to its traversing-order next in the array, which means you could search circularly to find its next greater number. If it doesn't exist, return  `-1`  for this number.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,2,1]
