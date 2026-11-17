@@ -28,7 +28,7 @@ class Solution:
 
 # <------------------------------------------------------------------------->
 
-        return [list(colm)for colm in zip(*matrix)]
+        return [list(row)for row in zip(*matrix)]
 
 
         

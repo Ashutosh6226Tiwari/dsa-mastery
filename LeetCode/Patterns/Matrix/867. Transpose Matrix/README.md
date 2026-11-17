@@ -1,6 +1,6 @@
 # 📝 867. Transpose Matrix (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/transpose-matrix)
+🔗 [Problem Link](https://leetcode.com/problems/transpose-matrix/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
