@@ -7,7 +7,7 @@ class Solution:
             total+=mat[i][i]
 
             if i != n-i-1:
-                total+=mat[i][i]
+                total+=mat[i][n-i-1]
 
         return total
 
