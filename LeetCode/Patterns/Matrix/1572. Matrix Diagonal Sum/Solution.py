@@ -1,15 +1,15 @@
 class Solution:
     def diagonalSum(self, mat: list[list[int]]) -> int:
 
-        # n=len(mat)
-        # total=0
-        # for i in range(n):
-        #     total+=mat[i][i]
+        n=len(mat)
+        total=0
+        for i in range(n):
+            total+=mat[i][i]
 
-        #     if i != n-i-1:
-        #         total+=mat[i][i]
+            if i != n-i-1:
+                total+=mat[i][i]
 
-        # return total
+        return total
 
 # <------------------------------------------------------------>
         # n=len(mat)
@@ -25,17 +25,17 @@ class Solution:
 
 # <--------------------------------------------------------------------->
 # by two pointer    
-        total = 0
-        left , right = 0 , len(mat)-1
-        for row in mat :
-            if left ==right :
-                total +=row[right]
-            else :
-                total += row[left]+row[right]
+        # total = 0
+        # left , right = 0 , len(mat)-1
+        # for row in mat :
+        #     if left ==right :
+        #         total +=row[right]
+        #     else :
+        #         total += row[left]+row[right]
             
-            left +=1
-            right -=1
-        return total
+        #     left +=1
+        #     right -=1
+        # return total
 
 
 
