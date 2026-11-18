@@ -25,17 +25,17 @@ class Solution:
 
 # <--------------------------------------------------------------------->
 # by two pointer    
-        total = 0
-        left , right = 0 , len(mat)-1
-        for row in mat :
-            if left ==right :
-                total +=row[right]
-            else :
-                total += row[left]+row[right]
+        # total = 0
+        # left , right = 0 , len(mat)-1
+        # for row in mat :
+        #     if left ==right :
+        #         total +=row[right]
+        #     else :
+        #         total += row[left]+row[right]
             
-            left +=1
-            right -=1
-        return total
+        #     left +=1
+        #     right -=1
+        # return total
 
 
 
