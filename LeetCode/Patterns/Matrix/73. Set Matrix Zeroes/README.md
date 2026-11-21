@@ -19,7 +19,7 @@ Given an  `m x n`  integer matrix  `matrix` , if an element is  `0` , set its en
 
 You must do it  [in place](https://en.wikipedia.org/wiki/In-place_algorithm) .
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
  ![image](https://assets.leetcode.com/uploads/2020/08/17/mat1.jpg) 
 
