@@ -1,10 +1,10 @@
 class Solution:
     def luckyNumbers(self, matrix: list[list[int]]) -> list[int]:
 
-        row_min= {min(row) for row in matrix }
-        col_max = {max(col) for col in zip (*matrix)}
+        # row_min= {min(row) for row in matrix }
+        # col_max = {max(col) for col in zip (*matrix)}
 
-        return list(row_min & col_max)
+        # return list(row_min & col_max)
 
 # time complexity = o(n*m)
 # space complexity = O(n+m)        
@@ -12,20 +12,21 @@ class Solution:
         rows , colm = len(matrix) , len (matrix[0])
         res = []
 
-        row_max= set()
+        row_min= set()
         for row in range (rows):
-            row_max.add(max(matrix[row]))
+            row_min.add(min(matrix[row]))
 
         col_max=set()
         for col in range (colm):
-            curr_max= matrix[0][c]
-            for row in ragne (rows):
-                curr_max= max(curr_max , matrix[r][c])
+            curr_max= matrix[0][col]
+            for row in range (rows):
+                curr_max= max(curr_max , matrix[row][col])
             col_max.add(curr_max)
 
-        for n in row_max :
+        for n in row_min  :
             if n in col_max :
-                res.append
+                res.append(n)
+        return res
 
 
 
