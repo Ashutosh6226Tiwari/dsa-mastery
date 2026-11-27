@@ -8,8 +8,8 @@
 Array, Matrix, Simulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 19.2 MB
 
 ---
 
@@ -17,7 +17,7 @@ Array, Matrix, Simulation
 
 Given a positive integer  `n` , generate an  `n x n`   `matrix`  filled with elements from  `1`  to  `n2`  in spiral order.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
  ![image](https://assets.leetcode.com/uploads/2020/11/13/spiraln.jpg) 
 
